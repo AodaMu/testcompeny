@@ -25,7 +25,7 @@ export default defineConfig({
     open: true,
     proxy: {
       '/api': {
-        target: 'https://compenytest.vercel.app',  // 修改为Vercel部署地址
+        target: 'https://frbrlhlfeawb.sealosbja.site',  // 修改为新指定地址
         changeOrigin: true,
         secure: false,
         rewrite: (path) => path

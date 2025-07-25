@@ -1,8 +1,8 @@
 import axios from 'axios'
 
 // 后端API基础URL
-const API_BASE_URL = 'https://compenytest.vercel.app'  // 修改为Vercel部署地址
-const IMAGE_BASE_URL = 'https://compenytest.vercel.app'  // 图片基础URL
+const API_BASE_URL = 'https://frbrlhlfeawb.sealosbja.site'  // 修改为新指定地址
+const IMAGE_BASE_URL = 'https://frbrlhlfeawb.sealosbja.site'  // 图片基础URL
 
 // 创建axios实例
 const axiosInstance = axios.create({
